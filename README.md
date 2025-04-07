@@ -13,7 +13,7 @@
 **Atualmente, realizo estágio no Departamento de Estradas de Rodagem do Estado do Rio de Janeiro (DER-RJ), atuando no setor de desenvolvimento de sistemas internos de serviços,  utilizando as tecnologias Laravel, Blade, JavaScript, CSS, HTML e Bootstrap.**
 
 ---
-##  Estatísticas do Github 📌
+##  Estatísticas do Github / Statistics 📌
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarlosAndre2001ws&theme=blue-green)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=CarlosAndre2001ws&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
